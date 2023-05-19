@@ -1,7 +1,7 @@
-# Exploration-of-Norhwind-traders-sales-data
+# Exploration-of-Northwind-traders-sales-data
 This is Sales &amp; order data, including information on customers, products, orders, shippers, and employees for Northwind Traders, a global food supply company that specializes in supplying gourmet food products to restaurants, cafes, and food retailers around the world.  
 
-As their data analyst, I have been tasked with building a top-level KPI dashboard with SQL queries for the stakeholders and Executive Team. This dashboard would give the company's Executives insights into the company's sales performance. Some of the insights includes but not limited to:
+As their data analyst, I have been tasked with building a top-level KPI dashboard with SQL queries for the stakeholders and Executive Team. This dashboard would give the company's Executives insights into the company's sales performance. Some of the insights include but are not limited to:
 
 Sales Trends
 Product Performance
