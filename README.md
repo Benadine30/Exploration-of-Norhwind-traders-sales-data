@@ -17,3 +17,6 @@ FEW RECOMMENDATIONS FOR THE EXECUTIVES TO IMPROVE SALES:
 📍 Focus more marketing efforts on USA and Germany: These two countries have been identified as their best-selling cities, implying a higher propensity for sales in those regions. It is recommended that the company allocate more marketing resources towards these areas to boost sales.
 
 📍 lessen the use of Federal Shipping and United Package because of their freight costs and their longer delivery days.
+
+[Northwind traders dashboard 2.pdf](https://github.com/Benadine30/Exploration-of-Norhwind-traders-sales-data/files/11612315/Northwind.traders.dashboard.2.pdf)
+
