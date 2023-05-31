@@ -18,5 +18,6 @@ FEW RECOMMENDATIONS FOR THE EXECUTIVES TO IMPROVE SALES:
 
 📍 lessen the use of Federal Shipping and United Package because of their freight costs and their longer delivery days.
 
-[Northwind traders dashboard 2.pdf](https://github.com/Benadine30/Exploration-of-Norhwind-traders-sales-data/files/11612315/Northwind.traders.dashboard.2.pdf)
+
+![1683720362782 (1)](https://github.com/Benadine30/Exploration-of-Norhwind-traders-sales-data/assets/105176448/72d37233-8f46-4d86-bc95-361e806481d1)
 
